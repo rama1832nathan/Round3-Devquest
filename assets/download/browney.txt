@@ -1,0 +1,8 @@
+Hint 1:
+
+go to the google and search for ceasar cipher online to decrypt the message
+or else use this link: https://cryptii.com/pipes/caesar-cipher
+
+message : joljr hss aol mbujapvuhspaf pu aopz dlizpal. mvy lehtwsl pthnlz,ibaavuz,mvytz...
+
+key value for this message is 7
